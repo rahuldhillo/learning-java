@@ -1,0 +1,15 @@
+3
+4
+Line one.
+Line two.
+Line three.
+
+I am learning Java
+
+Java is super easy
+
+It can even read this file
+
+I hope you agree with me
+
+Happy coding!
