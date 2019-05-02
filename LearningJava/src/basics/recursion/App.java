@@ -5,7 +5,7 @@ public class App {
         //int value = 4;
         calculate(4);
         //System.out.println(value);
-        System.out.println(factorial(4));
+        System.out.println("\nFactorial is: " + factorial(+ 4));
     }
 
     private static void calculate(int value){
@@ -16,7 +16,7 @@ public class App {
         }
         //calculate(value); // will result in stack overflow.
         calculate(value -1); // will print different value but over flow
-        System.out.println(value + " I am after the recursion");
+        System.out.println("\n" + value + " I am after the recursion. I don't know why :(");
     }
 
     private static int factorial (int number){
