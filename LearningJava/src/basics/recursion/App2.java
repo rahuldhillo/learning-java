@@ -3,7 +3,7 @@ package basics.recursion;
 public class App2 {
 
     public static void main(String[] args) {
-        calculate(4);
+        calculate(5);
     }
 
     private static void calculate(int value){
