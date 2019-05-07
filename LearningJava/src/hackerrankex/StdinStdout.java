@@ -1,4 +1,4 @@
-package hackerRankEx;
+package hackerrankex;
 import java.util.Scanner;
 
 public class StdinStdout{
