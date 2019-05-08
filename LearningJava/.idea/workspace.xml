@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e67e75ec-5efd-4391-bb31-09c3d093dddf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hackerrankex/endoffile/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrankex/staticinitializerblock/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJava/hackerRankEx/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJava/hackerRankEx/IfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJava/hackerRankEx/JavaLoopI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJava/hackerRankEx/JavaLoopI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJava/hackerRankEx/JavaOutputFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJava/hackerRankEx/JavaOutputFormat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJava/hackerRankEx/StdinStdout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJava/hackerRankEx/StdinStdout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerRankEx/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankex/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerRankEx/JavaLoopI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankex/JavaLoopI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerRankEx/JavaOutputFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankex/JavaOutputFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerRankEx/StdinStdout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankex/StdinStdout.java" afterDir="false" />
-    </list>
+    <list default="true" id="e67e75ec-5efd-4391-bb31-09c3d093dddf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hackerrankex/staticinitializerblock/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -293,6 +281,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13161659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -813,8 +802,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hackerrankex/staticinitializerblock/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
